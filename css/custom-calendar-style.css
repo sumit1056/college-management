@@ -1,0 +1,18 @@
+/* Example styles for FullCalendar */
+
+#calendar {
+    width: 100%;
+    margin: 20px auto;
+}
+
+.fc-event {
+    color: #fff;
+}
+
+.fc-title {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+/* Add more styles as needed */
