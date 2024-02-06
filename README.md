@@ -48,4 +48,3 @@ Restricted to Super Admins and Admins. Grants permission to other users, enablin
 ## Additional Information
 The project encompasses various features and functionalities beyond those mentioned here. Feel free to explore the codebase for a comprehensive understanding.
 
-For any issues or inquiries, please contact [moryasumit1056@gmail.com](mailto:moryasumit1056@gmail.com).
