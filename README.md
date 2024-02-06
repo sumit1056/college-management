@@ -14,7 +14,7 @@ composer install
 
 
 ## Access Credentials
-- **Username:** moryasumit106@gmail.com
+- **Username:** superadmin@example.com
 - **Password:** 123
 
 ## Programming Languages and Technologies Used
