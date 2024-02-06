@@ -14,21 +14,26 @@ After installation, run the following command to install dependencies:
 ```bash
 composer install
 
-Access Credentials
+## Access Credentials
 Username: moryasumit1056@gmail.com
 Password: 123
-Programming Languages and Technologies Used
+
+## Programming Languages and Technologies Used
 HTML
 CSS
 JavaScript
 PHP
-Frameworks, Libraries, and Plugins
+
+##Frameworks, Libraries, and Plugins
 jQuery
 AJAX
 DataTables
-Databases
+
+##Databases
 SQL
-Project Functionalities
+
+##Project Functionalities
+
 Dashboard (Under Development)
 A static page without functionality, currently in development.
 
@@ -41,9 +46,7 @@ Allows users to add and update timetable data for different classes. Provides ex
 Permissions
 Restricted to Super Admins and Admins. Grants permission to other users, enabling access to specific pages and functionalities.
 
-Additional Information
+## Additional Information
 The project encompasses various features and functionalities beyond those mentioned here. Feel free to explore the codebase for a comprehensive understanding.
 
 For any issues or inquiries, please contact moryasumit1056@gmail.com.
-
-Happy coding!
